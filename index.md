@@ -1,16 +1,24 @@
-## Welcome to Simple Dungeon !!!
+# ![icon](img/simpledungeon_logo.png) Welcome to Simple Dungeon !!!
+![title](/img/title.png)
 
-You can use the [editor on GitHub](https://github.com/MinicSimpleDungeon/simpledungeon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![icon](img/simpledungeon_logo.png) A Simple Roguelike Game
+===
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* simple control
+* simple mechanism
+* simple graphic
+* simple SFX
+* simple fun
 
 # Preview
+![screen_shot](img/sd_screen.png)
+Simple Dungeon is a light weight roguelike game made by Godot game engine
 
 ## Download
 
 ## News
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 2021.04.04
+> Prototype Complete
 
 ```markdown
 Syntax highlighted code block
